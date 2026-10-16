@@ -13,5 +13,13 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/GaimsDevSoftware/mclights-releases/releases/download/v0.3.0/MCLights-0.3.0.dmg" type="application/octet-stream" sparkle:edSignature="D1DbPMvX0bz7qr71Q0tOqQh2clUYO95oTSKTbLD+g/LIQHEnbHao2zcWakXwWHD6YeEIn0f7LZnoS6Df/5jtCQ==" length="2169806"/>
         </item>
+            <item>
+            <title>MCLights 0.3.1</title>
+            <pubDate>Fri, 16 Oct 2026 00:16:41 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/GaimsDevSoftware/mclights-releases/releases/download/v0.3.1/MCLights-0.3.1.dmg" type="application/octet-stream" sparkle:edSignature="gTYNwGfojtYxwErzvLMMe23Af4ZrP2VNm+gisDdMimFVz+8cmjJdY6uqRyvTHTYL7ObuSt03WeXplKDnInxPCw==" length="2169893"/>
+        </item>
     </channel>
 </rss>
