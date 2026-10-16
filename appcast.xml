@@ -45,5 +45,13 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/GaimsDevSoftware/mclights-releases/releases/download/v0.5.1/Mission-Tools-0.5.1.dmg" type="application/octet-stream" sparkle:edSignature="7ioAhrGoulIfwMNXnf6qTIOAy9dwIxHeOvNTWa3Bme7i43oI7ih2zvxBlI5UKMRiX5XM6FCb+nxj0tC9vq7eAQ==" length="2601485"/>
         </item>
+            <item>
+            <title>Mission Tools 0.5.2</title>
+            <pubDate>Fri, 16 Oct 2026 11:29:18 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/GaimsDevSoftware/mclights-releases/releases/download/v0.5.2/Mission-Tools-0.5.2.dmg" type="application/octet-stream" sparkle:edSignature="tkL5Np/GWPrD6veaD+/iJu85tQ9qnpQffQOc4cVF2o6dJm4KnDd/ieMaoAQ0cgIt6AkHl992DiR3wPFCSBXPBw==" length="2603981"/>
+        </item>
     </channel>
 </rss>
